@@ -1,0 +1,6 @@
+@IE3_PRELIM_Q2_32A3_Albano_Raven_HostAddress = http://localhost:5151
+
+GET {{IE3_PRELIM_Q2_32A3_Albano_Raven_HostAddress}}/api/users
+Accept: application/json
+
+###
